@@ -1,0 +1,13 @@
+{
+  "Title": "Implement OAuth2 Authentication",
+  "Description": "Add OAuth2 authentication to the login flow. Ensure compatibility with existing SSO. Update documentation and test cases.",
+  "WorkTeam": "Identity",
+  "FeatureArea": "Authentication",
+  "AdditionalFields": {
+    "Priority": "High",
+    "StoryPoints": 8,
+    "Reporter": "alice.smith",
+    "Labels": ["security", "backend"],
+    "CreatedDate": "2025-08-01T10:00:00Z"
+  }
+}
