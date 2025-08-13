@@ -20,7 +20,7 @@ graph TD
     A[Jira Ticket Data] --> B[FeatureBuilder]
     B --> C[ModelTrainer]
     C -->|Train| D[ML.NET Regression Model]
-    D -->|Save/Load| E[Model Files (.zip)]
+    D -->|Save/Load| E[Model Files .zip]
     E -->|Predict| F[Risk & Effort Scores]
 ```
 
